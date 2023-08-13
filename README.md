@@ -1,4 +1,4 @@
-# Power-BI Analysis
+# Sales Analysis using Power BI
 ﻿At 7,583.11, Qtr 3 had the highest Profits and was 325.06% higher than Qtr 1, which had the lowest Profits at 1,784.03.
  
 ﻿Profits and total Sales are positively correlated with each other.
